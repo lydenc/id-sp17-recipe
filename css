@@ -1,0 +1,42 @@
+<style id="jsbin-css">
+h1{Text-align: center;
+font-size:39px; margin:1px
+}
+h3{Text-align: left;
+  border: 1px dotted;
+}
+section{
+background-color: #0000;
+padding: 10px;
+}
+h1{
+     font-family:sans-serif;
+     color:#ff6666;
+     border:1px dotted;
+     /* grayscale: 123456789abcdef */
+}
+.links{
+  text-align: center;
+color:#ff6666;
+font-family:sans-serif;}
+h3{
+font-size:30px;
+
+font-family:sans-serif;
+     color:#ff6666;
+     /* grayscale: 123456789abcdef */}
+ul{font-family:sans-serif;
+     color:#ff9999;
+     /* grayscale: 123456789abcdef */}
+ol{font-family:sans-serif;
+     color:#ff9999;
+     /* grayscale: 123456789abcdef */}
+img{display:block;
+margin:auto;
+width: 90%;}
+dl{
+  font-size:13px;
+  font-family:sans-serif;
+  color:#ff6666;
+}
+</style>
