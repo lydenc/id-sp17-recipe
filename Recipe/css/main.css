@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+}
+
+.max-width {
+  max-width: 58em;
+  padding: 0 1em;
+  margin: 0 auto;
+}
+
+/* navigation */
+
+nav ul {
+  list-style: none;
+  text-align: center;
+  padding-left: 0;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  display: inline-block;
+  color: #fff;
+  padding: .5em;
+  border: 1px solid #fff;
+  margin: 0 .5em;
+}
+
+/* banner */
+
+#banner {
+  color: #fff;
+  text-align: center;
+  background: #369 url("http://recipegreat.com/images/maple-salmon-04.jpg") center 0 no-repeat;
+  background-size: cover;
+  padding: 1em 0
+}
+
+#banner h1 {
+  padding: 20% 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+section{
+background-color: #0123456;
+padding: 10px;
+}
+h1{
+     font-family:sans-serif;
+     color:#ffffff;
+     border:1px dotted;
+     text-align: center;
+     font-size: 50px; margin:1px
+}
+
+.links{
+  text-align: center;
+color:#009999;
+font-family:sans-serif;}
+h3{
+Text-align: center;
+border: 1px dotted;
+
+font-size:30px;
+
+font-family:sans-serif;
+     color:#009999;
+     /* grayscale: 123456789abcdef */}
+ul{font-family:sans-serif;
+     color:#ff9999;
+     /* grayscale: 123456789abcdef */}
+ol{font-family:sans-serif;
+     color:#ff9999;
+     /* grayscale: 123456789abcdef */}
+dl{
+  font-size:13px;
+  font-family:sans-serif;
+  color:#ff6666;
+}
+</style>
